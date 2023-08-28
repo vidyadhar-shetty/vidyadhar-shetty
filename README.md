@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vidyadharshetty01@gmail.com**
 
-- ⚡ Fun fact **for(true){console.log("Eat--Sleep--Repeat)}**
+- ⚡ Fun fact **for(true){console.log("Eat--Code--Repeat)}**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
