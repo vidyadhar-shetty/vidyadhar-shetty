@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vidyadharshetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidyadharshetty/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vidyadharno07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vidyadharno07" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/vidyashetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vidyadharno07" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/vidyashetty/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="https://auth.geeksforgeeks.org/user/vidyadharno07" height="30" width="40" /></a>
   
 </p>
 
